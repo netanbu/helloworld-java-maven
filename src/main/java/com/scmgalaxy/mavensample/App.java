@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World DCC-1" );
+        System.out.println( "Hello World DCC-1 --3d" );
     }
 }
