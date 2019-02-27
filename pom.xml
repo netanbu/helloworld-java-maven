@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <id>dcc</id>
+        <name>dcc</name>
+        <url>http://35.197.18.42:8081/nexus/content/repositories/dcc/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <id>dcc</id>
+        <name>dccsnap</name>
+        <url>http://35.197.18.42:8081/nexus/content/repositories/dccsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
